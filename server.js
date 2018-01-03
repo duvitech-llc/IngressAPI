@@ -31,3 +31,5 @@ App.use('/docs', swaggerUi({
 
 Server.listen(port, function () { // fifth and final change
 });
+
+console.log("listening on port " + port)
