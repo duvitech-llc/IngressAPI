@@ -17,6 +17,7 @@
         "body-parser": "^1.15.0",
         "swaggerize-express": "^4.0.0",
         "swaggerize-ui": "^1.0.0",
+        "jsonpath": "^1.0.0",
         "swagmock": "~0.0.2"
     },
     "devDependencies": {
